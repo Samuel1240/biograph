@@ -1,0 +1,137 @@
+body {
+    background-color: aqua;
+    margin: auto;
+}
+
+.main-content {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.main-contest{
+    margin: auto;
+}
+.img-menu {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.billy-info{
+    display: flex;
+    text-justify: newspaper;
+}
+.img-pix {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    align-content: center;
+}
+.about-us{
+    text-align: center;
+    margin: 15px 0;
+}
+.margin{
+    margin: 5% 0;
+}
+.socialmedia-icons {
+    margin: 0 40%; 
+}
+
+.socialmedia-icons .twitter{
+   padding: 0 20px;
+}
+
+.vision-mission {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    width: 100%;
+}
+.one{
+    font-size: 50px;
+    fon-weight: 900;
+}
+.text-design{
+    font-size: 50px;
+    fon-weight: 900;  
+}
+.arrow {
+    font-size: 70px;
+    fon-weight: 900;
+    align-content: center;
+    text-align: center;
+    image-rendering: auto;
+}
+.View-Portfolio {
+    font-size: 50px;
+    fon-weight: 100;
+    margin: 0 50px;
+    align-content: center;
+    text-align: center;
+}
+.evangelism {
+    margin: 30px 30px; 
+    padding: 20px 20px;
+    font-size: 50px;
+}
+.evangelism .internet-evangelism{
+    padding: 20px 20px;
+}
+ .evangelism .rrt-feature{
+     padding: 20px 20px;
+}
+.evangelism-featured2 {
+    padding: 20px 20px;
+}
+.prayerline-page {
+    padding: 20px 20px;
+}
+.button-section button {
+    background: whitesmoke;
+    padding: 8px 40px;
+    border:burlywood;
+    color: black;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    margin: 0 40%;
+}
+.location {
+    display: flex;
+    justify-content: center;
+    margin: 0 50px;
+    align-content: center;
+    text-align: center;
+}
+.address {
+    display: flex;
+    justify-content: center;
+    margin: 0 50px;
+    align-content: center;
+    text-align: center;
+}
+.founder {
+    margin: 0 50px;
+    align-content: center;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.phone {
+    display: flex;
+    justify-content: center;
+    margin: 0 50px;
+    align-content: center;
+    text-align: center;
+}
+.security {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-content: center;
+    text-align: center;
+}
