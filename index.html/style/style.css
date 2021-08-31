@@ -51,12 +51,12 @@ body {
     width: 100%;
 }
 .one{
-    font-size: 50px;
-    fon-weight: 900;
+    font-size: 30px;
+    fon-weight: 700;
 }
 .text-design{
-    font-size: 50px;
-    fon-weight: 900;  
+    font-size: 30px;
+    fon-weight: 700;  
 }
 .arrow {
     font-size: 70px;
@@ -66,7 +66,7 @@ body {
     image-rendering: auto;
 }
 .View-Portfolio {
-    font-size: 50px;
+    font-size: 30px;
     fon-weight: 100;
     margin: 0 50px;
     align-content: center;
@@ -122,8 +122,6 @@ body {
     border-radius: 50%;
 }
 .phone {
-    display: flex;
-    justify-content: center;
     margin: 0 50px;
     align-content: center;
     text-align: center;
